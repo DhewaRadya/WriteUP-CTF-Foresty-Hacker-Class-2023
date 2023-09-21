@@ -1,5 +1,9 @@
 # CTF-Learning-2023-Write-Up
-My CTF WriteUp while learning on Hacker Class by Foresty Lab
+Hi, I can assure you that these are some really simple problems since I only started learning CTF in August 2023. ;)  
+Would be thankful for anykind of support hehe  
+Please let me know if I'm doing it wrong.
+
+So, this is My CTF learning WriteUp on 2023
 
 ---  
 
